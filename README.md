@@ -1,4 +1,4 @@
-## Getting Started with Product Listing App
+## Getting Started with Product Listing App (Reactjs v18.2)
 
 Here is a demo app of the single responsibility of the react application
 
