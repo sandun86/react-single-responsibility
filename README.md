@@ -1,4 +1,4 @@
-## Getting Started with product listing app
+## Getting Started with Product Listing App
 
 Here is a demo app of the single responsibility of the react application
 
